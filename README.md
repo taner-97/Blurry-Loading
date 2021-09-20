@@ -18,7 +18,7 @@
 - JavaScript
 
 
-### Screenshot
+### Screenshots
 
 ![image](https://user-images.githubusercontent.com/75890463/134041549-4c0df1ff-e381-45fd-ab3a-686903eb0e96.jpeg)
 ![photo](https://user-images.githubusercontent.com/75890463/134041569-a5f47d26-aadf-49bf-9741-f052c1b3d115.jpeg)
